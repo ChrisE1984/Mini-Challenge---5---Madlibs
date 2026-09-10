@@ -2,8 +2,8 @@
 //9-10-2026
 //Assignment Name Mini Challenge # 5 - Mad Lib
 //Created a program with 10 prompts to ask users to input specific types of words and output them into a Madlib story.
-//Peer Review:
-//Review:
+//Peer Review: Valery Lot
+//Review: Code looks clean and clear, makes it easy to follow. Line 38, "finally lease", not sure if that's a typo. 
 
 Console.Clear();
 

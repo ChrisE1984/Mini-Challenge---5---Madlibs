@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini Challenge # 5 - Madlibs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16eab3eba87af389101367a52e05c74504605244")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini Challenge # 5 - Madlibs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini Challenge # 5 - Madlibs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

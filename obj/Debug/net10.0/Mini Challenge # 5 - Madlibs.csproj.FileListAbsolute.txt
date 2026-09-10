@@ -12,3 +12,4 @@ C:\Users\cestr\Desktop\Homework\Mini Challenge # 5 - Madlibs\obj\Debug\net10.0\r
 C:\Users\cestr\Desktop\Homework\Mini Challenge # 5 - Madlibs\obj\Debug\net10.0\Mini Challenge # 5 - Madlibs.pdb
 C:\Users\cestr\Desktop\Homework\Mini Challenge # 5 - Madlibs\obj\Debug\net10.0\Mini Challenge # 5 - Madlibs.genruntimeconfig.cache
 C:\Users\cestr\Desktop\Homework\Mini Challenge # 5 - Madlibs\obj\Debug\net10.0\ref\Mini Challenge # 5 - Madlibs.dll
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 5 - Madlibs\obj\Debug\net10.0\Mini Challenge # 5 - Madlibs.sourcelink.json

@@ -1,0 +1,14 @@
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 5 - Madlibs\obj\Debug\net10.0\Mini Challenge # 5 - Madlibs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 5 - Madlibs\obj\Debug\net10.0\Mini Challenge # 5 - Madlibs.AssemblyInfoInputs.cache
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 5 - Madlibs\obj\Debug\net10.0\Mini Challenge # 5 - Madlibs.AssemblyInfo.cs
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 5 - Madlibs\obj\Debug\net10.0\Mini Challenge # 5 - Madlibs.csproj.CoreCompileInputs.cache
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 5 - Madlibs\bin\Debug\net10.0\Mini Challenge # 5 - Madlibs.exe
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 5 - Madlibs\bin\Debug\net10.0\Mini Challenge # 5 - Madlibs.deps.json
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 5 - Madlibs\bin\Debug\net10.0\Mini Challenge # 5 - Madlibs.runtimeconfig.json
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 5 - Madlibs\bin\Debug\net10.0\Mini Challenge # 5 - Madlibs.dll
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 5 - Madlibs\bin\Debug\net10.0\Mini Challenge # 5 - Madlibs.pdb
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 5 - Madlibs\obj\Debug\net10.0\Mini Challenge # 5 - Madlibs.dll
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 5 - Madlibs\obj\Debug\net10.0\refint\Mini Challenge # 5 - Madlibs.dll
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 5 - Madlibs\obj\Debug\net10.0\Mini Challenge # 5 - Madlibs.pdb
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 5 - Madlibs\obj\Debug\net10.0\Mini Challenge # 5 - Madlibs.genruntimeconfig.cache
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 5 - Madlibs\obj\Debug\net10.0\ref\Mini Challenge # 5 - Madlibs.dll

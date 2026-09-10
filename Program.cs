@@ -1,6 +1,13 @@
-﻿
+﻿//Chris Estrada
+//9-10-2026
+//Assignment Name Mini Challenge # 5 - Mad Lib
+//Created a program with 10 prompts to ask users to input specific types of words and output them into a Madlib story.
+//Peer Review:
+//Review:
 
 Console.Clear();
+
+//each prompt has an output phrase associated with a user input to add to the story at the end
 Console.WriteLine("Please Enter an Adjective:");
 string firstAdj = Console.ReadLine();
 
@@ -31,6 +38,7 @@ string secondNoun = Console.ReadLine();
 Console.WriteLine("Finally lease Enter a Silly word:");
 string sillyWord= Console.ReadLine();
 
+//Used an output to write the title then complied the inputs into the story below.
 Console.WriteLine("The Field Trip Story");
 Console.WriteLine ("Today our class took a field trip to the " + firstAdj + " Museum of Ancient "+ firstNoun + ". We rode on a very loud bus with sticky " + pluralNoun +
 ". While our teacher was " + verb + ", my best friend dropped a " + color + " sandwich on the floor. It was so " + secondAdj + ". The tour guide showed us " + number +
